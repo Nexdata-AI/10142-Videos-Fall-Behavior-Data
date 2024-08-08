@@ -3,7 +3,7 @@
 ## Description
 10,142 Videos-Fall Behavior Data. The data includes indoor scenes and outdoor scenes. The data covers multiple scenes, multiple shooting angles, multiple collecting time, multiple resolution. The data can be used for tasks such as fall behavior detection, fall behavior recognition, etc..
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1244?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1244?source=Github
 
 
 ## Data size
